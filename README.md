@@ -23,3 +23,7 @@ This is a simple extension that will show you random jokes in the popup when ext
       
       
 * Make `popup.html`, `script.js`, `style.css` files, and upload it in Chrome browser. 
+
+
+# Please find documentation [here](https://developer.chrome.com/docs/devtools/overview/)
+`https://developer.chrome.com/docs/devtools/overview/`
